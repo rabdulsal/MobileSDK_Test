@@ -1,0 +1,16 @@
+PODS:
+  - MobileSDK_Test (0.1.0)
+
+DEPENDENCIES:
+  - MobileSDK_Test (from `../`)
+
+EXTERNAL SOURCES:
+  MobileSDK_Test:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MobileSDK_Test: 1ecdccdea1d4729f2e7eefe7816159a69edb0dd0
+
+PODFILE CHECKSUM: f82ef09663557def37f8828ceccd79f63f4fa4b5
+
+COCOAPODS: 1.7.5

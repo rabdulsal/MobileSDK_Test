@@ -1,0 +1,6 @@
+framework module MobileSDK_Test {
+  umbrella header "MobileSDK_Test-umbrella.h"
+
+  export *
+  module * { export * }
+}

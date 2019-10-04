@@ -1,0 +1,22 @@
+{
+  "name": "MobileSDK_Test",
+  "version": "0.1.0",
+  "summary": "A short description of MobileSDK_Test.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/rabdulsal/MobileSDK_Test",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "rabdulsal": "rashad@getskinclick.com"
+  },
+  "source": {
+    "git": "https://github.com/rabdulsal/MobileSDK_Test.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MobileSDK_Test/Classes/**/*"
+}
