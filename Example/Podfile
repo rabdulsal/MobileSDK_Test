@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MobileSDK_Test_Example' do
+  pod 'MobileSDK_Test', :path => '../'
+
+  target 'MobileSDK_Test_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
